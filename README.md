@@ -8,9 +8,8 @@ Luxury streetwear brand website for **Mizz Flexican** (Jessica Bantu).
 ## Status of this repository
 
 The original React + Vite source for this site was developed locally on
-2026-05-07 from `jessica-bantu-updated.zip` and deployed to Vercel, but the
-source tree is no longer present on disk (it lived under the legacy
-`/home/ph/Downloads/flexy` directory on the 1TB drive and was removed).
+2026-05-07 and deployed to Vercel, but the source tree is no longer present
+on disk.
 
 What is committed here is the **recovered deployment artifact** pulled from
 the live Vercel deployment: the built `index.html`, the minified JS/CSS
@@ -18,9 +17,4 @@ bundles, and the public image assets under `flexy/`. The original component
 source (TSX), `package.json`, Vite config, and styling source are **not**
 recoverable from the deployment.
 
-## Contact (from the deployed site)
-
-- Email: styledbyflexy@gmail.com
-- Phone: +254 742 230 089
-- Instagram: https://www.instagram.com/missflexican/
-- LinkedIn: https://www.linkedin.com/in/flexican/
+No client contact details are published in this repository.
